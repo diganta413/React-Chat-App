@@ -1,0 +1,26 @@
+.Message {
+  background-color: #dddddd;
+  padding: 1px 10px 1px 10px;
+  width: fit-content;
+  border-radius: 30px;
+  margin: 0px 10px 10px 10px;
+  text-align: left;
+  min-width: 100px;
+}
+
+.text {
+  font-size: 20px;
+}
+.user {
+  color: blue;
+}
+.user_message {
+  background-color: #a1cae2;
+  padding: 1px 10px 1px 10px;
+  width: fit-content;
+  border-radius: 30px;
+  margin: 0px 10px 10px 10px;
+  margin-left: auto;
+  text-align: left;
+  min-width: 100px;
+}
